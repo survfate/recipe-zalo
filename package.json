@@ -6,6 +6,7 @@
   "main": "index.js",
   "author": "Nam Mai Hoang <mhnam@yahoo.com.vn>",
   "license": "MIT",
+  "repository": "https://github.com/survfate/recipe-zalo",
   "config": {
     "serviceURL": "https://chat.zalo.me/"
   }
