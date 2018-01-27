@@ -1,0 +1,12 @@
+{
+  "id": "zalo",
+  "name": "Zalo",
+  "version": "1.0.0",
+  "description": "Zalo",
+  "main": "index.js",
+  "author": "Nam Mai Hoang <mhnam@yahoo.com.vn>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://chat.zalo.me/"
+  }
+}
